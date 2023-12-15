@@ -1,5 +1,3 @@
-Certainly! Below is a basic README for the provided code:
-
 # Drowsiness Detection System using Eye Aspect Ratio
 
 ## Overview
